@@ -1,2 +1,3 @@
 # Data-Analysis
-ipynbs on EDA, Feature Engineering
+Python Jupyter Notebooks 
+Covers topic from Exploratory Data Analysis, Image Processing, Time Series Analysis
