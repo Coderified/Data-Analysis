@@ -1,7 +1,7 @@
 
 # Machine Learning Classification & Regression Projects 🚀
 
-Welcome to my collection of machine learning projects focused on **classification** and **regression** tasks! 📊 This repository showcases end-to-end workflows with a sprinkle of data science magic, tackling imbalanced datasets, dimensionality reduction, and robust model validation 🌟
+Welcome to my collection of machine learning projects focused on **classification** and **regression** tasks! 📊 
 
 ## Project Overview 🌐
 🧠 It covers:
